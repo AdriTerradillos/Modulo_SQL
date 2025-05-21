@@ -41,13 +41,13 @@ DELETE FROM clientes WHERE nombre = 'Juan Pérez';
 ## 🧠 Consultas Avanzadas
 🔹 Conceptos Clave
 
-    JOIN: Combinar filas de dos o más tablas basadas en una relación entre ellas.
+   -**JOIN**: Combinar filas de dos o más tablas basadas en una relación entre ellas.
 
-    GROUP BY: Agrupar resultados que tienen los mismos valores en columnas específicas.
+-**GROUP BY**: Agrupar resultados que tienen los mismos valores en columnas específicas.
 
-    HAVING: Filtrar grupos de resultados.
+-**HAVING**: Filtrar grupos de resultados.
 
-    SUBQUERIES: Consultas dentro de otras consultas.
+-**SUBQUERIES**: Consultas dentro de otras consultas.
 
 📌 Ejemplos de Código
 
